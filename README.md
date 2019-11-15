@@ -1,6 +1,4 @@
 # Saurabh Annadate
-## Text Analytics - Homework3
-
 
 ### Data Download
 
